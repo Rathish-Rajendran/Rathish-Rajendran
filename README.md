@@ -24,4 +24,4 @@
 **Backend & cloud:** Kafka · Redis · Docker · Kubernetes · GCP · AWS  
 **Web:** React · Next.js · FastAPI · Flask
 
-I want to build safe, aligned, and reliable AI systems that people can trust in practice. If you're working on something in that space, [let's connect](mailto:rathishr@uci.edu).
+I want to build safe, aligned, and reliable AI systems that users can trust. If you're working on something in that space, [let's connect](mailto:rathishr@uci.edu).
