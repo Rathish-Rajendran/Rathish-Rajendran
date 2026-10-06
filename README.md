@@ -1,9 +1,5 @@
 # Hi, I'm Rathish 👋
 
-**AI software engineer focused on LLM applications, agent workflows, and reliable AI systems.**
-
-I build AI applications and the backend systems that support them in production. At Arista Networks, I developed a Claude Code workflow approval tool in Go using LangGraph, Claude Code hooks, and Google Cloud Pub/Sub, enabling 15,000+ developers to approve workflows through Google Chat. I also built a Go and Python account management platform handling 40,000+ requests per minute. I'm pursuing a Master of Software Engineering at UC Irvine.
-
 [LinkedIn](https://www.linkedin.com/in/rathish-rajendran9601/) · [Email](mailto:rathishr@uci.edu)
 
 ### What I build
