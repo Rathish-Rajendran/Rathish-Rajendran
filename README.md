@@ -1,14 +1,14 @@
 # Hi, I'm Rathish 👋
 
-**AI software engineer building useful LLM experiences and reliable backend systems.**
+**AI software engineer focused on LLM applications, agent workflows, and reliable AI systems.**
 
-I work across AI applications, distributed services, and cloud infrastructure. At Arista Networks, I built developer tooling and backend platforms in Go and Python, including an approval workflow designed for 15,000+ developers and an account management platform handling 40,000+ requests per minute. I'm currently pursuing a Master's in Software Engineering at UC Irvine.
+I build AI applications and the backend systems that support them in production. At Arista Networks, I developed a Claude Code workflow approval tool in Go using LangGraph, Claude Code hooks, and Google Cloud Pub/Sub, enabling 15,000+ developers to approve workflows through Google Chat. I also built a Go and Python account management platform handling 40,000+ requests per minute. I'm pursuing a Master of Software Engineering at UC Irvine.
 
 [LinkedIn](https://www.linkedin.com/in/rathish-rajendran9601/) · [Email](mailto:rathishr@uci.edu)
 
 ### What I build
 
-- **AI systems:** LLM workflows, retrieval augmented generation, evaluation, and human review.
+- **AI systems:** LLM workflows, retrieval augmented generation, evaluation, and human in the loop systems.
 - **Backend platforms:** APIs, event driven services, authentication, and performance at scale.
 - **Cloud infrastructure:** Kubernetes, GCP, deployment automation, and security tooling.
 
@@ -28,4 +28,4 @@ I work across AI applications, distributed services, and cloud infrastructure. A
 **Backend & cloud:** Kafka · Redis · Docker · Kubernetes · GCP · AWS  
 **Web:** React · Next.js · FastAPI · Flask
 
-I'm interested in building AI products that are grounded, measurable, and practical to operate. If you're working on something in that space, [let's connect](mailto:rathishr@uci.edu).
+I want to build safe, aligned, and reliable AI systems that people can trust in practice. If you're working on something in that space, [let's connect](mailto:rathishr@uci.edu).
