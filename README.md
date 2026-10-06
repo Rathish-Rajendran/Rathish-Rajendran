@@ -8,7 +8,7 @@
 - **Backend platforms:** APIs, event driven services, authentication, and performance at scale.
 - **Cloud infrastructure:** Kubernetes, GCP, deployment automation, and security tooling.
 
-### Selected projects
+### Some of my projects
 
 | Project | What it does |
 | --- | --- |
