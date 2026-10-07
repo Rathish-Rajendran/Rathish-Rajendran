@@ -12,6 +12,7 @@
 
 | Project | What it does |
 | --- | --- |
+| [ResolveRAG](https://github.com/Rathish-Rajendran/ResolveRAG) | Evaluation-first RAG platform benchmarking five chunking strategies and six retrieval configurations on IBM TechQA with LangChain, Ollama, and Qdrant. |
 | [GoFr social media automation](https://github.com/Rathish-Rajendran/Gofr-social-media-automation) | Go backend and React interface for AI drafted outreach with an approval step before posting. |
 | [Mini LLM Debate](https://github.com/Rathish-Rajendran/mini-llm-debate) | Local, spoken debate between LLMs, orchestrated in Python with Ollama and Kokoro text to speech. |
 | [BigQuery Release Explorer](https://github.com/Rathish-Rajendran/bq-release-notes-app) | Flask app for searching and filtering BigQuery release notes. |
